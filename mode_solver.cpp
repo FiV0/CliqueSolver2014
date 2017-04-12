@@ -89,9 +89,9 @@ int main(int argc, char * argv[]){
     //test
     /*for(int i=0;i<n;++i){
       for(vector<int>::iterator it = p_graph[i].begin(); it != p_graph[i].end();++it){
-        if(i == *it) cout << " big error"<< endl;
+      if(i == *it) cout << " big error"<< endl;
       }
-    }*/
+      }*/
 
     int ma = -1;
     for(int i=0;i<n;++i){
@@ -102,7 +102,7 @@ int main(int argc, char * argv[]){
 
     /*for(int i=0;i<n;++i){
       tree_destruction(tree[i]);
-    }*/
+      }*/
 
     //delete [] trees;
     delete [] tree_cliques;

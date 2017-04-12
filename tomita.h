@@ -9,7 +9,7 @@
 
 //#define _MATX_
 
-// uncomment/comment the defines for _DEBUG_TOMITA_ and _MODE_SOLVER_ to switch between the mode_solver and tomita respectively 
+// uncomment/comment the defines for _DEBUG_TOMITA_ and _MODE_SOLVER_ to switch between the mode_solver and tomita respectively
 
 //#define _DEBUG_TOMITA_
 

@@ -10,9 +10,9 @@
 
 
 std::vector< std::list<int> > tree_cliques_rec(node * tree,
-                std::vector< std::vector< std::vector<int> > > & prime_edges);
+    std::vector< std::vector< std::vector<int> > > & prime_edges);
 
 std::vector< std::list<int> > tree_cliques_ite(node * tree,
-                std::vector< std::vector< std::vector<int> > > & prime_edges);
+    std::vector< std::vector< std::vector<int> > > & prime_edges);
 
 #endif

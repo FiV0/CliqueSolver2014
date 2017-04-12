@@ -2,7 +2,7 @@
 #define _tomita_tree_h_
 
 /* This module calculates cliques in the prime nodes
- * and is essentially the same as tomita.h 
+ * and is essentially the same as tomita.h
  */
 
 #include <vector>

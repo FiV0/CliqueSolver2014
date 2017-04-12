@@ -1,0 +1,67 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+LEAF	/home/fv/Code/C++/CliqueSolver2014/prime_graph_io.h	12;"	d
+PARALLEL	/home/fv/Code/C++/CliqueSolver2014/prime_graph_io.h	14;"	d
+PRIME	/home/fv/Code/C++/CliqueSolver2014/prime_graph_io.h	15;"	d
+SERIE	/home/fv/Code/C++/CliqueSolver2014/prime_graph_io.h	13;"	d
+_MODE_SOLVER_	/home/fv/Code/C++/CliqueSolver2014/tomita.h	16;"	d
+_dm_clique_h_	/home/fv/Code/C++/CliqueSolver2014/dm_clique.h	2;"	d
+_prime_graph_io_	/home/fv/Code/C++/CliqueSolver2014/prime_graph_io.h	2;"	d
+_tomita_h_	/home/fv/Code/C++/CliqueSolver2014/tomita.h	2;"	d
+_tomita_tree_h_	/home/fv/Code/C++/CliqueSolver2014/tomita_tree.h	2;"	d
+child	/home/fv/Code/C++/CliqueSolver2014/prime_graph_io.h	/^struct child{$/;"	s
+child::next	/home/fv/Code/C++/CliqueSolver2014/prime_graph_io.h	/^  child * next;$/;"	m	struct:child	access:public
+child::no	/home/fv/Code/C++/CliqueSolver2014/prime_graph_io.h	/^  node * no;$/;"	m	struct:child	access:public
+children	/home/fv/Code/C++/CliqueSolver2014/prime_graph_io.h	/^  child * children;$/;"	m	struct:node	access:public
+cliSize	/home/fv/Code/C++/CliqueSolver2014/tomita.cpp	/^int cliSize;$/;"	v
+cliSize2	/home/fv/Code/C++/CliqueSolver2014/tomita_tree.cpp	/^int cliSize2;$/;"	v
+clique	/home/fv/Code/C++/CliqueSolver2014/tomita.cpp	/^int * clique;$/;"	v
+clique2	/home/fv/Code/C++/CliqueSolver2014/tomita_tree.cpp	/^int * clique2;$/;"	v
+count	/home/fv/Code/C++/CliqueSolver2014/tomita.cpp	/^int count;$/;"	v
+count_nb	/home/fv/Code/C++/CliqueSolver2014/prime_graph_io.cpp	/^int count_nb(int s, string line){$/;"	f	signature:(int s, string line)
+find_closing	/home/fv/Code/C++/CliqueSolver2014/prime_graph_io.cpp	/^int find_closing(int s, string line){$/;"	f	signature:(int s, string line)
+find_end	/home/fv/Code/C++/CliqueSolver2014/prime_graph_io.cpp	/^int find_end(int s, string line){$/;"	f	signature:(int s, string line)
+inter	/home/fv/Code/C++/CliqueSolver2014/tomita.cpp	/^bool * inter;$/;"	v
+inter2	/home/fv/Code/C++/CliqueSolver2014/tomita_tree.cpp	/^bool * inter2;$/;"	v
+main	/home/fv/Code/C++/CliqueSolver2014/mode_solver.cpp	/^int main(int argc, char * argv[]){$/;"	f	signature:(int argc, char * argv[])
+main	/home/fv/Code/C++/CliqueSolver2014/tomita_test.cpp	/^int main(int argc, char * argv[]){$/;"	f	signature:(int argc, char * argv[])
+main	/home/fv/Code/C++/CliqueSolver2014/tree_clique.cpp	/^int main(int argc, char * argv []){$/;"	f	signature:(int argc, char * argv [])
+main	/home/fv/Code/C++/CliqueSolver2014/tree_clique_test.cpp	/^int main (int argc, char * argv[]){$/;"	f	signature:(int argc, char * argv[])
+matx	/home/fv/Code/C++/CliqueSolver2014/tomita.cpp	/^bool ** matx;$/;"	v
+next	/home/fv/Code/C++/CliqueSolver2014/prime_graph_io.h	/^  child * next;$/;"	m	struct:child	access:public
+no	/home/fv/Code/C++/CliqueSolver2014/prime_graph_io.h	/^  node * no;$/;"	m	struct:child	access:public
+node	/home/fv/Code/C++/CliqueSolver2014/prime_graph_io.h	/^struct node{$/;"	s
+node::children	/home/fv/Code/C++/CliqueSolver2014/prime_graph_io.h	/^  child * children;$/;"	m	struct:node	access:public
+node::num	/home/fv/Code/C++/CliqueSolver2014/prime_graph_io.h	/^  int num;$/;"	m	struct:node	access:public
+node::type	/home/fv/Code/C++/CliqueSolver2014/prime_graph_io.h	/^  int type;$/;"	m	struct:node	access:public
+num	/home/fv/Code/C++/CliqueSolver2014/prime_graph_io.h	/^  int num;$/;"	m	struct:node	access:public
+out	/home/fv/Code/C++/CliqueSolver2014/mode_solver.cpp	/^ofstream out;$/;"	v
+print_tree	/home/fv/Code/C++/CliqueSolver2014/tree_clique_test.cpp	/^void print_tree(node * tree,int l){$/;"	f	signature:(node * tree,int l)
+reverse	/home/fv/Code/C++/CliqueSolver2014/tomita.cpp	/^int * reverse;$/;"	v
+reverse2	/home/fv/Code/C++/CliqueSolver2014/tomita_tree.cpp	/^int * reverse2;$/;"	v
+sets	/home/fv/Code/C++/CliqueSolver2014/tomita.cpp	/^int * sets;$/;"	v
+sets2	/home/fv/Code/C++/CliqueSolver2014/tomita_tree.cpp	/^int * sets2;$/;"	v
+sizes	/home/fv/Code/C++/CliqueSolver2014/tomita.cpp	/^int *sizes;$/;"	v
+swap2	/home/fv/Code/C++/CliqueSolver2014/tomita.cpp	/^inline void swap2(int i, int j){$/;"	f	signature:(int i, int j)
+swap3	/home/fv/Code/C++/CliqueSolver2014/tomita_tree.cpp	/^inline void swap3(int i, int j){$/;"	f	signature:(int i, int j)
+tomita	/home/fv/Code/C++/CliqueSolver2014/tomita.cpp	/^void tomita(std::vector< std::vector<int> > & adj,int ma){$/;"	f	signature:(std::vector< std::vector<int> > & adj,int ma)
+tomita	/home/fv/Code/C++/CliqueSolver2014/tomita.h	/^void tomita(std::vector< std::vector <int> > & adj, int ma);$/;"	p	signature:(std::vector< std::vector <int> > & adj, int ma)
+tomita2	/home/fv/Code/C++/CliqueSolver2014/tomita_tree.cpp	/^std::vector< std::vector<int> > tomita2(std::vector< std::vector<int> > & adj,int ma){$/;"	f	signature:(std::vector< std::vector<int> > & adj,int ma)
+tomita2	/home/fv/Code/C++/CliqueSolver2014/tomita_tree.h	/^std::vector< std::vector<int> > tomita2(std::vector< std::vector <int> > & adj, int ma);$/;"	p	signature:(std::vector< std::vector <int> > & adj, int ma)
+tomita_helper	/home/fv/Code/C++/CliqueSolver2014/tomita.cpp	/^void tomita_helper(int &l, int &r, int &m , std::vector< std::vector<int> > & adj);$/;"	p	file:	signature:(int &l, int &r, int &m , std::vector< std::vector<int> > & adj)
+tomita_helper	/home/fv/Code/C++/CliqueSolver2014/tomita.cpp	/^void tomita_helper(int &l, int &r, int &m , std::vector< std::vector<int> > & adj){$/;"	f	signature:(int &l, int &r, int &m , std::vector< std::vector<int> > & adj)
+tomita_helper2	/home/fv/Code/C++/CliqueSolver2014/tomita_tree.cpp	/^void tomita_helper2(int &l, int &r, int &m , std::vector< std::vector<int> > & adj,$/;"	f	signature:(int &l, int &r, int &m , std::vector< std::vector<int> > & adj, std::vector< std::vector<int> > & res)
+tomita_helper2	/home/fv/Code/C++/CliqueSolver2014/tomita_tree.cpp	/^void tomita_helper2(int &l, int &r, int &m , std::vector< std::vector<int> > & adj,$/;"	p	file:	signature:(int &l, int &r, int &m , std::vector< std::vector<int> > & adj, std::vector< std::vector<int> > & res)
+tree_cliques_ite	/home/fv/Code/C++/CliqueSolver2014/dm_clique.cpp	/^vector< list <int> > tree_cliques_ite(node * tree, vector< vector< vector<int> > > & prime_edges){$/;"	f	signature:(node * tree, vector< vector< vector<int> > > & prime_edges)
+tree_cliques_ite	/home/fv/Code/C++/CliqueSolver2014/dm_clique.h	/^std::vector< std::list<int> > tree_cliques_ite(node * tree,$/;"	p	signature:(node * tree, std::vector< std::vector< std::vector<int> > > & prime_edges)
+tree_cliques_rec	/home/fv/Code/C++/CliqueSolver2014/dm_clique.cpp	/^vector< list<int> > tree_cliques_rec(node * tree ,$/;"	f	signature:(node * tree , vector< vector< vector<int> > > & prime_edges)
+tree_cliques_rec	/home/fv/Code/C++/CliqueSolver2014/dm_clique.h	/^std::vector< std::list<int> > tree_cliques_rec(node * tree,$/;"	p	signature:(node * tree, std::vector< std::vector< std::vector<int> > > & prime_edges)
+tree_construction	/home/fv/Code/C++/CliqueSolver2014/prime_graph_io.cpp	/^node * tree_construction(string line,$/;"	f	signature:(string line, vector< vector< vector<int> > > & pr_edges)
+tree_construction	/home/fv/Code/C++/CliqueSolver2014/prime_graph_io.h	/^node * tree_construction(std::string line,$/;"	p	signature:(std::string line, std::vector< std::vector< std::vector<int> > > & prime_edges)
+tree_destruction	/home/fv/Code/C++/CliqueSolver2014/prime_graph_io.cpp	/^void tree_destruction( node * n){$/;"	f	signature:( node * n)
+tree_destruction	/home/fv/Code/C++/CliqueSolver2014/prime_graph_io.h	/^void tree_destruction(node * n);$/;"	p	signature:(node * n)
+type	/home/fv/Code/C++/CliqueSolver2014/prime_graph_io.h	/^  int type;$/;"	m	struct:node	access:public

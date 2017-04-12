@@ -9,10 +9,10 @@
 
 /* This is the main file for the tomita algorithm alone.
  * Input: # nodes #edges on the first line
- * 				then all the edges on the next # edges of lines
+ *              then all the edges on the next # edges of lines
  *
- * Attention!  Nodes need to numbered 0 to # nodes -1 
- * 		
+ * Attention!  Nodes need to numbered 0 to # nodes -1
+ *
  */
 
 using namespace std;
@@ -37,7 +37,7 @@ int main(int argc, char * argv[]){
   /*if(!out.is_open()){
     cerr<<"Failed to open file: "<<argv[2]<<endl;
     exit(EXIT_FAILURE);
-  }*/
+    }*/
 
   string line;
 
